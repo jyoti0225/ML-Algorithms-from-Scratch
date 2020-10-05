@@ -24,3 +24,6 @@ In this repository, let's understand the working of a Decision Tree and then we 
 1. We are considering binary tree, i.e, after splitting there will be only 2 sub-trees
 2. The target class has to be in the last column in the data frame
 3. The target must have the name "label"
+<br>
+
+<b>You can also visit this algorithm on my article on https://medium.com/analytics-vidhya/decision-tree-from-scratch-2fc5f3547446 and give a clap if you like the article</b>

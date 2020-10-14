@@ -8,3 +8,7 @@ In this, you will understand the working of a Decision Tree and then can also im
 
 ## [2. K-Nearesr Neighbour Algorithm](https://github.com/jyoti0225/ML-Algorithms-from-Scratch/tree/master/K%20Nearest%20Neighbor)</br>
 In this, we will be implementing KNN-Algorithm from scratch. KNN is a data classification algorithm that attempts to determine what group a data point is in by looking at the data points around it.
+
+## [3. K-Means Algorithm](https://github.com/jyoti0225/ML-Algorithms-from-Scratch/tree/master/K-Means)</br>
+In this, we will be implementing K-Means Algorithm from scratch and shows an example application - reducing the number of colors.
+K-means is an entry level unsupervised clustering algorithm. In contrast to traditional methods in unsupervised methods we have data points, but we don't have labels. Based on distances between data algorithm finds k groups of points in a given dataset.
